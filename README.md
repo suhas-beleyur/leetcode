@@ -12,3 +12,15 @@ Automatically backed up from LeetCode via the [LeetCode → GitHub Backup extens
 ms | 0.00
 MB | 2026-07-18 |
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | unknown | — | — | 2026-07-18 |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/suhas-beleyur/leetcode/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/suhas-beleyur/leetcode/tree/master/0069-sqrtx) |
+<!---LeetCode Topics End-->
